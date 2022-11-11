@@ -1,2 +1,2 @@
-# estudo-logica-de-programacao-udemy
- Repositório para estudo de lógica de programação no VisualG junto a um curso da Udemy.
+# visualg
+ Curso de Lógica de Programação com VisualG
